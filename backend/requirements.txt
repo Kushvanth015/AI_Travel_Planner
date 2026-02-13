@@ -1,0 +1,9 @@
+flask
+flask-cors
+requests
+python-dotenv
+
+langchain
+langgraph
+langchain-google-genai
+wikipedia
